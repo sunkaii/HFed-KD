@@ -1,0 +1,12 @@
+Client/data
+Server/data
+*.pt
+*.pth
+*.txt
+*.pyc
+*.npy
+*.pkl
+Server/acgan_weights_cifar10
+Server/acgan_weights_fashionmnist
+Client/acgan_weights_cifar10
+Client/acgan_weights_fashionmnist
